@@ -1,1 +1,1 @@
-# Customer-Segmentation-using-K-Means-Clustering
+Customer Segmentation project using Python and K-Means Clustering to analyze customer behavior and divide customers into meaningful groups based on their purchasing patterns. The project includes data preprocessing, exploratory data analysis, visualization, optimal cluster selection using the Elbow Method, and customer segmentation using Machine Learning.
